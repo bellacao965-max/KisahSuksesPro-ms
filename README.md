@@ -1,2 +1,1 @@
-# KisahSuksesPro-ms
-Aplikasi Kisah Sukses Pro — inspirasi sukses harian dengan AI mentor
+ANJASMARA 0015 - FINAL RENDER READY\nSteps:\n1. Set env vars GROQ_API_KEY or OPENAI_API_KEY\n2. npm install\n3. npm start\n
